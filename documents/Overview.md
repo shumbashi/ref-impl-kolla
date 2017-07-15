@@ -8,4 +8,4 @@ Consider the scenario where you have a number of bare metal servers and you want
 
 # [Part 1: Provisioning the server.](https://github.com/osic/ref-impl-kolla/blob/master/documents/1-osic-provisioning.md)
 # [Part 2: Generating multinode host inventory and creating docker registry.](https://github.com/osic/ref-impl-kolla/blob/master/documents/2-osic-inventory-docker-registry.md)
-# [Part 3: Deploy Openstack Kolla.](https://github.com/osic/ref-impl-kolla/blob/master/documents/3-deploy-kolla.md)
+# [Part 3: Deploy Openstack Kolla.](https://github.com/osic/ref-impl-kolla/blob/master/documents/3-osic-deploy-kolla.md)
